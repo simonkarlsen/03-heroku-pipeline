@@ -11,5 +11,11 @@ public class DemoController {
         return "pong";
     }
 
+    @GetMapping(path = "/pong")
+    public String pong() {
+        return "ping";
+    }
+
+}
 }
 
