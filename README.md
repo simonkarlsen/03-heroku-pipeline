@@ -31,6 +31,14 @@ Når du har fulgt instruksjonene, skal dere sørge for at deres egen Spring Boot
 - Se at prod applikasjonen oppdaterer seg.
 
 
+## Nyttige lenker
+ 
+- for å lage et nytt Spring-prosjekt raskt - https://start.spring.io/  
+- Heroku, Java & Spring boot deployment - https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku 
+- Travis & Java - https://docs.travis-ci.com/user/languages/java/
+- Travis Deployment til Heroku -  https://docs.travis-ci.com/user/deployment/heroku/
+
+
 ## Bonusoppgaver
 
 * Begynn å se på feature toggles -Quick start guide er her; https://www.togglz.org/
