@@ -16,6 +16,11 @@ public class DemoController {
         return "Program says: 'ping'";
     }
 
+    @GetMapping(path = "/hello")
+    public String hello() {
+        return "world!";
+    }
+
 }
 
 
